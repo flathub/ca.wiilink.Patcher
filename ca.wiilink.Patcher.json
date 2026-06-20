@@ -48,8 +48,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/WiiLink24/WiiLink-Patcher-GUI/archive/refs/tags/v1.5.1.tar.gz",
-                    "sha256": "9ba8f72f6536dc298f53abdb1c945f569d0d17b64f1c7c07686a0d5d4e1490c2"
+                    "url": "https://github.com/WiiLink24/WiiLink-Patcher-GUI/archive/refs/tags/v1.5.3.tar.gz",
+                    "sha256": "49946c2cbef45e81fc4ad3255afbd83621a852478d5bd64c99850885b6941e54"
                 }
             ]
         }
